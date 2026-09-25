@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">oving2</string>
+    <string name="status_online">Tilkoblet</string>
+    <string name="status_offline">Ikke tilkoblet</string>
+    <string name="screen_title">Ukens oppskrifter</string>
+    <string name="screen_title1">Høst</string>
+    <string name="show_info">Vis antall oppskrifter</string>
+    <string name="header_description">Header image</string>
+    <string name="info_message">Vis antall oppskrifter</string>
 </resources>
