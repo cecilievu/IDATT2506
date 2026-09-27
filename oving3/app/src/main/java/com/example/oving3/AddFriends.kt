@@ -97,7 +97,6 @@ fun FriendItem(friend: Friend, modifier: Modifier = Modifier
     }
 }
 
-
 @Preview(showBackground = true)
 @Composable
 fun AddFriendPreview() {
