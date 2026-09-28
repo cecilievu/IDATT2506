@@ -1,4 +1,4 @@
-package com.example.oving3
+package com.example.oving4
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
@@ -12,14 +12,20 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.example.oving4.FriendAdder
+import com.example.oving4.FriendScreenWithViewModel
 import com.example.oving4.ui.theme.Oving4Theme
 
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
+
         setContent {
             Oving4Theme {
-                FriendAdder()
+                Scaffold { innerPadding ->
+                    FriendNavHost(
+                        modifier = Modifier.padding(innerPadding)
+                    )
+                }
             }
         }
     }

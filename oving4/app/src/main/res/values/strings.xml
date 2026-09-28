@@ -4,4 +4,7 @@
     <string name="name">Navn: </string>
     <string name="birth">Fødselsdato: </string>
     <string name="add">Legg til venn</string>
+    <string name="back">Tilbake</string>
+    <string name="save">Lagre</string>
+    <string name="edit">Rediger</string>
 </resources>
