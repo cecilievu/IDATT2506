@@ -1,0 +1,6 @@
+Interstellar;Christopher Nolan;Matthew McConaughey;Anne Hathaway
+Oppenheimer;Christopher Nolan;Cillian Murphy;Emily Blunt
+The Holiday;Nancy Meyers;Kate Winslet;Jack Black
+Home Alone;Chris Columbus;Macaulay Culkin;Catherine O'Hara
+Charlie's Angels;Joseph McGinty Nichol;Cameron Diaz;Drew Barrymore;Lucy Liu
+She's the Man;Andy Fickman;Amanda Bynes;Channing Tatum
