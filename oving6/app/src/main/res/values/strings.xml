@@ -1,3 +1,24 @@
 <resources>
     <string name="app_name">oving6</string>
+    <string name="start_server">Vær tjener</string>
+    <string name="connect">Koble til</string>
+    <string name="server_title">Tjener – %1$d tilkoblet</string>
+    <string name="client_title">Klient – %1$d tilkoblet</string>
+    <string name="message">Melding</string>
+    <string name="send">Send</string>
+    <string name="waiting_for_clients">Venter på klienter</string>
+    <string name="connected">Tilkoblet</string>
+    <string name="connecting">Kobler til</string>
+    <string name="server_stopped">Tjeneren er stoppet</string>
+    <string name="connection_ended">Forbindelsen er avsluttet</string>
+    <string name="client_disconnected">En klient koblet fra</string>
+    <string name="connection_failed">Kunne ikke koble til</string>
+    <string name="send_failed">Kunne ikke sende meldingen</string>
+    <string name="unknown_client">Ukjent klient</string>
+    <string name="client_sender">Klient %1$d</string>
+    <string name="sender_message">%1$s: %2$s</string>
+    <string name="me_sender">Meg</string>
+    <string name="server_sender">Tjener</string>
+    <string name="received_message">Mottatt: %1$s</string>
+    <string name="ready">Klar</string>
 </resources>
